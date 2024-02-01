@@ -1,0 +1,1 @@
+En este proyecto se plantea analizar algunos de los algoritmos empleados para extraer características en imágenes realizando un análisis para posteriormente emplear estos descriptores en tres distintos modelos de machine learning y finalmente una red neuronal para evaluar el porcentaje de exactitud a través de un esquema de validación en los modelos entrenados.
